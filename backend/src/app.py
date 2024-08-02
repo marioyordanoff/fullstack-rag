@@ -18,7 +18,7 @@ def endpoint():
     app = FastAPI(
         title="RAG API",
 
-        description="A simple RAG API",
+        description="A RAG API. Ask any question about the bulgarian constitution.",
         version="0.1",
     )
 
